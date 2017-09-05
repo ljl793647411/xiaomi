@@ -1,0 +1,16 @@
+/*
+* @Author: admin
+* @Date:   2017-08-29 18:01:19
+* @Last Modified by:   admin
+* @Last Modified time: 2017-09-02 13:45:30
+*/
+*{
+	margin: 0;  /* 清除body身上的，8px */
+    text-decoration:none;  /* 清除A标签下划线 */
+	padding: 0;/*  input 值 */
+}
+img{
+	width: 100%;
+    height: 100%;
+    border: none;
+}
